@@ -144,7 +144,7 @@ def create_visualizations(df,output_folder):
 
 plot_paths = create_visualizations(data,output_folder)
 
-# Create README.md with narration
+# narration
 narration_prompt = f"""
 Here is the context of the dataset analysis:
 
@@ -189,7 +189,7 @@ def create_readme(prompt):
 
 narration = create_readme(narration_prompt)
 
-# Save README.md
+
 with open(os.path.join(output_folder,"README.md"), "w") as readme:
     readme.write(narration)
     for plot in plot_paths:
