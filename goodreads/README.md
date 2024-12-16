@@ -20,7 +20,8 @@ In a quest to understand the intricacies of authors' impacts, a **box plot** ill
 
 The final chapter focused on the **most reviewed books**. A bar chart blossomed, featuring the ten titles that sparked the most conversation among readers. This visual painted a vivid picture of book chatter, illuminating trends in discussions and indicating potential market movements.
 
-Through this thorough exploration, the analyst pieced together a rich, multi-dimensional narrative of literature captured within the pages of goodreads.csv. The visualizations not only conveyed quantitative insights but also emphasized the subjective experiences of readers. The journey through data unveiled shades of popularity, diversity, and shared love for books, demonstrating that each number and rating held a unique story waiting to be told. By blending data with narrative, the analyst emerged with actionable insights, poised to guide avid readers toward their next great literary adventure.![correlation_heatmap.png](correlation_heatmap.png)
+Through this thorough exploration, the analyst pieced together a rich, multi-dimensional narrative of literature captured within the pages of goodreads.csv. The visualizations not only conveyed quantitative insights but also emphasized the subjective experiences of readers. The journey through data unveiled shades of popularity, diversity, and shared love for books, demonstrating that each number and rating held a unique story waiting to be told. By blending data with narrative, the analyst emerged with actionable insights, poised to guide avid readers toward their next great literary adventure.
+![correlation_heatmap.png](correlation_heatmap.png)
 ![book_id_distribution.png](book_id_distribution.png)
 ![goodreads_book_id_distribution.png](goodreads_book_id_distribution.png)
 ![best_book_id_distribution.png](best_book_id_distribution.png)
